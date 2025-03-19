@@ -1,0 +1,31 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+data
+*.iml
+out
+gen
+/ablation/
+/ckpt/few-shot/Brain.pth
+/ckpt/few-shot/Chest.pth
+/ckpt/few-shot/Chest_good.pth
+/ckpt/few-shot/Histopathology.pth
+/ckpt/few-shot/Liver.pth
+/ckpt/few-shot/Retina_OCT2017.pth
+/ckpt/few-shot/Retina_RESC.pth
+/clip/ckpt/
+/data/Brain_AD/
+/data/BUSI_AD/
+/data/Chest_AD/
+/data/Histopathology_AD/
+/data/Liver_AD/
+/data/Retina_OCT2017_AD/
+/data/Retina_RESC_AD/
+/image_res/
+/out/
+/aa.tex
+/a
+/bb.tex
+/t-sne.svg

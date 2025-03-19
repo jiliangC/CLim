@@ -1,0 +1,13 @@
+data_path: ./data/
+save_model: 1
+save_path: ./ckpt/few-shot/
+iterate: 0
+img_size: 224
+model_name: ViT-L-14-336
+pretrain: openai
+
+seed: 111
+epoch: 50
+learning_rate: 0.001
+batch_size: 16
+features_list: [6,12,18,24]
